@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "Alex",
+      "time": "16:12",
+      "id": "QZxGdjFD-fk"
+    },
+    {
+      "name": "sdfsdf",
+      "time": "15:42",
+      "id": "jkbrj9bidUw"
+    },
+    {
+      "name": "sdfsf",
+      "time": "15:42",
+      "id": "UoyoQbmU3I8"
+    }
+  ],
+  "favorites": [],
+  "compleated": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
